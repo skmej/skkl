@@ -1,0 +1,1 @@
+[32mINFO    [0m register:test_regist.py:44 username:32888888888,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg:请用手机号或邮箱注册

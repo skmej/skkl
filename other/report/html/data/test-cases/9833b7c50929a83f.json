@@ -1,0 +1,172 @@
+{
+  "uid" : "9833b7c50929a83f",
+  "name" : "test_a",
+  "fullName" : "demo_allure.TestAllure#test_a",
+  "historyId" : "da0da3ccba05b4527f7e4c10fc8cd70d",
+  "time" : {
+    "start" : 1664444184308,
+    "stop" : 1664444184326,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestAllure",
+    "time" : {
+      "start" : 1664444184307,
+      "stop" : 1664444184307,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "打开浏览器",
+      "time" : {
+        "start" : 1664444184308,
+        "stop" : 1664444184326,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7eb24a003ad0ff22",
+        "name" : "打开首页信息",
+        "source" : "7eb24a003ad0ff22.attach",
+        "type" : "text/plain",
+        "size" : 24
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "输入数据",
+      "time" : {
+        "start" : 1664444184326,
+        "stop" : 1664444184326,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1b563788fa19b2b6",
+        "name" : "数据",
+        "source" : "1b563788fa19b2b6.attach",
+        "type" : "text/plain",
+        "size" : 32
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestAllure::0",
+    "time" : {
+      "start" : 1664444184326,
+      "stop" : 1664444184326,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试a"
+  }, {
+    "name" : "feature",
+    "value" : "allure测试"
+  }, {
+    "name" : "suite",
+    "value" : "demo_allure"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllure"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QK39G3L1"
+  }, {
+    "name" : "thread",
+    "value" : "19948-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "demo_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fda425da5022d304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646746988629,
+        "stop" : 1646746988632,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "449d00f0f8a4e9b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646746471224,
+        "stop" : 1646746471225,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "69f0f450d4895a7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646746128153,
+        "stop" : 1646746128153,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "af6bb402485b93ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646745394980,
+        "stop" : 1646745394980,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9833b7c50929a83f.json",
+  "parameterValues" : [ ]
+}

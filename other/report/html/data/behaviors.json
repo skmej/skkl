@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "allure测试",
+    "children" : [ {
+      "name" : "测试a",
+      "children" : [ {
+        "name" : "test_a",
+        "uid" : "9833b7c50929a83f",
+        "parentUid" : "45a2ce31b0e561e4f0f637f982f55a8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1664444184308,
+          "stop" : 1664444184326,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "45a2ce31b0e561e4f0f637f982f55a8d"
+    }, {
+      "name" : "测试b",
+      "children" : [ {
+        "name" : "test_b",
+        "uid" : "b6e6a16b46d01a5e",
+        "parentUid" : "cda7cb87b3233166b6d5b1a16b53caaf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1664444184330,
+          "stop" : 1664444184330,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cda7cb87b3233166b6d5b1a16b53caaf"
+    } ],
+    "uid" : "efb9162a852564ba6158d09cadfd4638"
+  } ]
+}

@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"failed","demo_allure.TestAllure#test_b","0",""
+"passed","demo_allure.TestAllure#test_a","18",""

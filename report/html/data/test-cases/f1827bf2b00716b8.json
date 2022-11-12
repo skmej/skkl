@@ -1,0 +1,167 @@
+{
+  "uid" : "f1827bf2b00716b8",
+  "name" : "test_regist_username_error[-123456-123456-8888--请用手机号或邮箱]",
+  "fullName" : "script.test_regist.Test_Resgist#test_regist_username_error",
+  "historyId" : "f10f4795fa796c4f6206655deab7774d",
+  "time" : {
+    "start" : 1646747071090,
+    "stop" : 1646747074577,
+    "duration" : 3487
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test_Resgist",
+    "time" : {
+      "start" : 1646747003477,
+      "stop" : 1646747003478,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入注册信息",
+      "time" : {
+        "start" : 1646747071090,
+        "stop" : 1646747071539,
+        "duration" : 449
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bec14f4b1e6cb5c0",
+        "name" : "用户注册的数据",
+        "source" : "bec14f4b1e6cb5c0.attach",
+        "type" : "text/plain",
+        "size" : 72
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "获取注册结果",
+      "time" : {
+        "start" : 1646747073550,
+        "stop" : 1646747074577,
+        "duration" : 1027
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "28fbfb860bf978cb",
+        "name" : "注册结果",
+        "source" : "28fbfb860bf978cb.attach",
+        "type" : "text/plain",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ {
+      "uid" : "5048f5e800d1a360",
+      "name" : "log",
+      "source" : "5048f5e800d1a360.txt",
+      "type" : "text/plain",
+      "size" : 152
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test_Resgist::0",
+    "time" : {
+      "start" : 1646747095038,
+      "stop" : 1646747095038,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "注册用户名错误"
+  }, {
+    "name" : "feature",
+    "value" : "注册功能"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_regist"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Resgist"
+  }, {
+    "name" : "host",
+    "value" : "zhh-matebook14"
+  }, {
+    "name" : "thread",
+    "value" : "17688-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_regist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ast_msg",
+    "value" : "'请用手机号或邮箱'"
+  }, {
+    "name" : "code",
+    "value" : "'8888'"
+  }, {
+    "name" : "phone",
+    "value" : "''"
+  }, {
+    "name" : "pwd",
+    "value" : "'123456'"
+  }, {
+    "name" : "pwd2",
+    "value" : "'123456'"
+  }, {
+    "name" : "username",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1827bf2b00716b8.json",
+  "parameterValues" : [ "'请用手机号或邮箱'", "'8888'", "''", "'123456'", "'123456'", "''" ]
+}

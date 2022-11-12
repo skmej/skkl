@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"skipped","script.test_login.Test_login#test_login_username_error","0",""
+"passed","script.test_regist.Test_Resgist#test_regist_username_error","3512",""
+"passed","script.test_regist.Test_Resgist#test_regist_username_error","3515",""
+"passed","script.test_regist.Test_Resgist#test_regist_username_error","3547",""
+"passed","script.test_regist.Test_Resgist#test_regist_username_error","3528",""
+"passed","script.test_regist.Test_Resgist#test_regist_username_error","3487",""
+"skipped","script.test_login.Test_login#test_login_pwd","0",""

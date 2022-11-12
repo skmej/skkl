@@ -1,0 +1,71 @@
+[ {
+  "uid" : "541050c75fa08f8b",
+  "name" : "test_login_username_error",
+  "time" : {
+    "start" : 1646747003471,
+    "stop" : 1646747003471,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "827e606fffb0b11c",
+  "name" : "test_regist_username_error[32888888888-123456-123456-8888--请用手机号或邮箱]",
+  "time" : {
+    "start" : 1646747089313,
+    "stop" : 1646747092825,
+    "duration" : 3512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a9fb24a51fb0722",
+  "name" : "test_regist_username_error[138888888889-123456-123456-8888--请用手机号或邮箱]",
+  "time" : {
+    "start" : 1646747052732,
+    "stop" : 1646747056247,
+    "duration" : 3515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cec6f0944fa89ae5",
+  "name" : "test_regist_username_error[21888888888-123456-123456-8888--请用手机号或邮箱]",
+  "time" : {
+    "start" : 1646747016167,
+    "stop" : 1646747019714,
+    "duration" : 3547
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "629f82adeb834a65",
+  "name" : "test_regist_username_error[1088888888-123456-123456-8888--请用手机号或邮箱]",
+  "time" : {
+    "start" : 1646747034507,
+    "stop" : 1646747038035,
+    "duration" : 3528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1827bf2b00716b8",
+  "name" : "test_regist_username_error[-123456-123456-8888--请用手机号或邮箱]",
+  "time" : {
+    "start" : 1646747071090,
+    "stop" : 1646747074577,
+    "duration" : 3487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dca4f2372ebef7d4",
+  "name" : "test_login_pwd",
+  "time" : {
+    "start" : 1646747003474,
+    "stop" : 1646747003474,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

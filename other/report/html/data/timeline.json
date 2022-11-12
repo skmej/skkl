@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-QK39G3L1",
+    "children" : [ {
+      "name" : "19948-MainThread",
+      "children" : [ {
+        "name" : "test_b",
+        "uid" : "b6e6a16b46d01a5e",
+        "parentUid" : "3a9a85f7dd7d0c5287e6863d0a7fd877",
+        "status" : "failed",
+        "time" : {
+          "start" : 1664444184330,
+          "stop" : 1664444184330,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "9833b7c50929a83f",
+        "parentUid" : "3a9a85f7dd7d0c5287e6863d0a7fd877",
+        "status" : "passed",
+        "time" : {
+          "start" : 1664444184308,
+          "stop" : 1664444184326,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a9a85f7dd7d0c5287e6863d0a7fd877"
+    } ],
+    "uid" : "2dd1fbdcc82889e0b93c18b79a0f2ea7"
+  } ]
+}

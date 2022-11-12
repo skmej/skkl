@@ -1,0 +1,109 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "登录功能",
+    "children" : [ {
+      "name" : "登录用户名错误",
+      "children" : [ {
+        "name" : "test_login_username_error",
+        "uid" : "541050c75fa08f8b",
+        "parentUid" : "76141865f92478a74b2cbcbf79be3bf5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1646747003471,
+          "stop" : 1646747003471,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "76141865f92478a74b2cbcbf79be3bf5"
+    }, {
+      "name" : "登录密码错误",
+      "children" : [ {
+        "name" : "test_login_pwd",
+        "uid" : "dca4f2372ebef7d4",
+        "parentUid" : "bfe0ae10151ed804d6aedcde97b8cb0d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1646747003474,
+          "stop" : 1646747003474,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bfe0ae10151ed804d6aedcde97b8cb0d"
+    } ],
+    "uid" : "76c1a89e029bf2806c0ddb06b8505b0b"
+  }, {
+    "name" : "注册功能",
+    "children" : [ {
+      "name" : "注册用户名错误",
+      "children" : [ {
+        "name" : "test_regist_username_error[21888888888-123456-123456-8888--请用手机号或邮箱]",
+        "uid" : "cec6f0944fa89ae5",
+        "parentUid" : "ebb796fe3eea2d44c9a90dacca728b4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646747016167,
+          "stop" : 1646747019714,
+          "duration" : 3547
+        },
+        "flaky" : false,
+        "parameters" : [ "'请用手机号或邮箱'", "'8888'", "''", "'123456'", "'123456'", "'21888888888'" ]
+      }, {
+        "name" : "test_regist_username_error[1088888888-123456-123456-8888--请用手机号或邮箱]",
+        "uid" : "629f82adeb834a65",
+        "parentUid" : "ebb796fe3eea2d44c9a90dacca728b4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646747034507,
+          "stop" : 1646747038035,
+          "duration" : 3528
+        },
+        "flaky" : false,
+        "parameters" : [ "'请用手机号或邮箱'", "'8888'", "''", "'123456'", "'123456'", "'1088888888'" ]
+      }, {
+        "name" : "test_regist_username_error[138888888889-123456-123456-8888--请用手机号或邮箱]",
+        "uid" : "6a9fb24a51fb0722",
+        "parentUid" : "ebb796fe3eea2d44c9a90dacca728b4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646747052732,
+          "stop" : 1646747056247,
+          "duration" : 3515
+        },
+        "flaky" : false,
+        "parameters" : [ "'请用手机号或邮箱'", "'8888'", "''", "'123456'", "'123456'", "'138888888889'" ]
+      }, {
+        "name" : "test_regist_username_error[-123456-123456-8888--请用手机号或邮箱]",
+        "uid" : "f1827bf2b00716b8",
+        "parentUid" : "ebb796fe3eea2d44c9a90dacca728b4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646747071090,
+          "stop" : 1646747074577,
+          "duration" : 3487
+        },
+        "flaky" : false,
+        "parameters" : [ "'请用手机号或邮箱'", "'8888'", "''", "'123456'", "'123456'", "''" ]
+      }, {
+        "name" : "test_regist_username_error[32888888888-123456-123456-8888--请用手机号或邮箱]",
+        "uid" : "827e606fffb0b11c",
+        "parentUid" : "ebb796fe3eea2d44c9a90dacca728b4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646747089313,
+          "stop" : 1646747092825,
+          "duration" : 3512
+        },
+        "flaky" : false,
+        "parameters" : [ "'请用手机号或邮箱'", "'8888'", "''", "'123456'", "'123456'", "'32888888888'" ]
+      } ],
+      "uid" : "ebb796fe3eea2d44c9a90dacca728b4b"
+    } ],
+    "uid" : "85ff1f938d503d997bc4540a25196a1f"
+  } ],
+  "name" : "behaviors"
+}

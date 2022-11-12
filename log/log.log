@@ -1,0 +1,10 @@
+2022-09-29 16:10:22,808 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:21888888888,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 16:10:31,113 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:1088888888,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 16:10:40,005 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:138888888889,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 16:10:48,773 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 16:10:57,470 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:32888888888,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 21:45:36,167 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:21888888888,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 21:45:45,529 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:1088888888,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 21:45:54,654 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:138888888889,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 21:46:03,966 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册
+2022-09-29 21:46:13,271 INFO [register] [test_regist.py(test_regist_username_error:40)] - username:32888888888,pwd:123456,pwd2:123456,phone:,ast_msg:请用手机号或邮箱,msg请用手机号或邮箱注册

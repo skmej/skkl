@@ -1,0 +1,66 @@
+{
+  "uid" : "dca4f2372ebef7d4",
+  "name" : "test_login_pwd",
+  "fullName" : "script.test_login.Test_login#test_login_pwd",
+  "historyId" : "6395f85a38660ebe232a1be34a79d411",
+  "time" : {
+    "start" : 1646747003474,
+    "stop" : 1646747003474,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 不想运行",
+  "statusTrace" : "('C:\\\\Users\\\\bcc\\\\Desktop\\\\pycode\\\\py11po2\\\\script\\\\test_login.py', 44, 'Skipped: 不想运行')",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录密码错误"
+  }, {
+    "name" : "feature",
+    "value" : "登录功能"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='不想运行')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "zhh-matebook14"
+  }, {
+    "name" : "thread",
+    "value" : "17688-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip(reason='不想运行')" ]
+  },
+  "source" : "dca4f2372ebef7d4.json",
+  "parameterValues" : [ ]
+}

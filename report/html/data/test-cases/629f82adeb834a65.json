@@ -1,0 +1,167 @@
+{
+  "uid" : "629f82adeb834a65",
+  "name" : "test_regist_username_error[1088888888-123456-123456-8888--请用手机号或邮箱]",
+  "fullName" : "script.test_regist.Test_Resgist#test_regist_username_error",
+  "historyId" : "85d0332cd4ede3cf10721d02e92ae431",
+  "time" : {
+    "start" : 1646747034507,
+    "stop" : 1646747038035,
+    "duration" : 3528
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test_Resgist",
+    "time" : {
+      "start" : 1646747003477,
+      "stop" : 1646747003478,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入注册信息",
+      "time" : {
+        "start" : 1646747034507,
+        "stop" : 1646747034989,
+        "duration" : 482
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "70efce97a494495",
+        "name" : "用户注册的数据",
+        "source" : "70efce97a494495.attach",
+        "type" : "text/plain",
+        "size" : 82
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "获取注册结果",
+      "time" : {
+        "start" : 1646747036990,
+        "stop" : 1646747038034,
+        "duration" : 1044
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5ef110d31d80992f",
+        "name" : "注册结果",
+        "source" : "5ef110d31d80992f.attach",
+        "type" : "text/plain",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ {
+      "uid" : "ce135d50a1cd2ed2",
+      "name" : "log",
+      "source" : "ce135d50a1cd2ed2.txt",
+      "type" : "text/plain",
+      "size" : 162
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test_Resgist::0",
+    "time" : {
+      "start" : 1646747095038,
+      "stop" : 1646747095038,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "注册用户名错误"
+  }, {
+    "name" : "feature",
+    "value" : "注册功能"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_regist"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Resgist"
+  }, {
+    "name" : "host",
+    "value" : "zhh-matebook14"
+  }, {
+    "name" : "thread",
+    "value" : "17688-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_regist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ast_msg",
+    "value" : "'请用手机号或邮箱'"
+  }, {
+    "name" : "code",
+    "value" : "'8888'"
+  }, {
+    "name" : "phone",
+    "value" : "''"
+  }, {
+    "name" : "pwd",
+    "value" : "'123456'"
+  }, {
+    "name" : "pwd2",
+    "value" : "'123456'"
+  }, {
+    "name" : "username",
+    "value" : "'1088888888'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "629f82adeb834a65.json",
+  "parameterValues" : [ "'请用手机号或邮箱'", "'8888'", "''", "'123456'", "'123456'", "'1088888888'" ]
+}
